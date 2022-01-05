@@ -65,5 +65,5 @@ if (process.argv.length == 3 && process.argv[2] == "console") {
   PORT = 3001
 }
 server.listen(PORT, () => {
-  console.log(`App started on PORT ${PORT} Just want to fucking`);
+  console.log(`App started on PORT ${PORT} King is fucking...`);
 });
